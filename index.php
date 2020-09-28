@@ -1,5 +1,4 @@
 <?php
-//echo ;
 include_once("include/dgpb.php");
 
  ?>
