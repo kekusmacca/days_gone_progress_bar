@@ -40,7 +40,7 @@ $progressBar = "<div class=\"dpb-blue\" style=\"height:24px;width:${percent}%\">
 
  ?>
  <html>
- <title>dpb.CSS</title>
+ <title>Progress Bar Test Page</title>
  <meta name="viewport" content="width=device-width, initial-scale=1">
  <link rel="stylesheet" href="css/dpb.css">
  <body>
