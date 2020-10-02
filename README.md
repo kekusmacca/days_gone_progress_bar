@@ -5,4 +5,4 @@ Much love.
 
 https://github.com/kekusmacca/days_gone_progress_bar/wiki
 
-Although every effort is made to keep things as stable as possible, please do note that this code is under constant development so there might be bugs. If you run across any issues, please inform me.
+Although every effort is made to keep things as stable as possible, please note that this code is under constant development so there might be bugs. If you run across any issues, please inform me.
